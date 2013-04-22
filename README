@@ -1,0 +1,1 @@
+Visual depiction of Batcher's merge-exchange sorting network: 3-pixel-wide grey lines separate phases, and 1-pixel-wide black lines terminate at the indices of two elements compared and swapped
